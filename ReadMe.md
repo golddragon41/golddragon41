@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly skilled and results-driven Senior Blockchain Full Stack Engineer with a strong focus on Web3, and AI-driven applications. Over 10 years of experience designing, developing, and deploying scalable, secure, and high-performance systems across various industries, including healthcare, finance, and eCommerce. Expertise in creating decentralized applications (dApps), smart contracts, and AI solutions to optimize business operations and user experiences.
+Highly skilled and results-driven Blockchain Full Stack Developer with a strong focus on Web3, and AI-driven applications. Over 10 years of experience designing, developing, and deploying scalable, secure, and high-performance systems across various industries, including healthcare, finance, and eCommerce. Expertise in creating decentralized applications (dApps), smart contracts, and AI solutions to optimize business operations and user experiences.
 
 
 ## 🌐 Socials:
