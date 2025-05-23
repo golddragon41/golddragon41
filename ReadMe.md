@@ -1,5 +1,9 @@
-# 💫 About Me:
-Highly skilled and results-driven Blockchain Full Stack Developer with a strong focus on Web3, and AI-driven applications. Over 10 years of experience designing, developing, and deploying scalable, secure, and high-performance systems across various industries, including healthcare, finance, and eCommerce. Expertise in creating decentralized applications (dApps), smart contracts, and AI solutions to optimize business operations and user experiences.
+# 💫 About Me: Fintech Software Engineer / Full Stack Developer + AI / ML skills + Game Design
+- 10+ years in web and application development for corporate finance / accounting / trading projects.
+- Proficient in complex financial calculation engine development.
+- Experience with various languages, including but not limited to React.JS/TS, Vue, Node.JS, Python and Java.
+- Experience with various hosting platforms and project management tools, including but not limited to AWS, Docker, Git and SSH.
+- AI integration & AI coding: LLM, prompt engineering, fine-tuning and OpenAI integration.
 
 
 ## 🌐 Socials:
